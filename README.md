@@ -1,6 +1,7 @@
 # 💫 About Me:
-![image](https://github.com/prakash260/prakash260/assets/7037393/46cca6cf-2ea9-47d1-a291-c5369ad16b7c)
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
+</div>
 
 I am a Data engineer by profession<br> <br> You can speak about Data,AWS Cloud,ETL & Food with me<br>
 
